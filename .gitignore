@@ -1,2 +1,4 @@
 # Игнорировать ровно этот файл по относительному пути
 ML/2023-fall/homeworks-practice/train_second_task.csv
+# игнорировать все __pycache__ во всех подпапках
+__pycache__/
